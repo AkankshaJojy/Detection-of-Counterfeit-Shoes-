@@ -1,2 +1,3 @@
 # Detection-of-Counterfeit-Shoes-
-The main objective is to design and develop a Deep Learning model  capable of accurately distinguishing between genuine and counterfeit shoes based on visual features  captured in images
+The main objective is to design and develop a Deep Learning model  capable of accurately distinguishing between genuine and counterfeit shoes based on visual features  captured in images.The project began by curating a diverse primary dataset of shoe images, collected from various sources, including user-generated images and images scraped from online marketplaces like Amazon and Myntra. The images were labelled, differentiating between genuine and counterfeit shoes, forming the foundation for supervised machine learning model.By this project we make a step forward to fight against counterfeit products. This project can also be used in different sectors be it counterfeit money, apparels, QR codes etc.
+Author - Akanksha Jojy Jacob 
